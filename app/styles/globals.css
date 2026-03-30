@@ -1,0 +1,15 @@
+// Global styles
+:root {
+    --primary-color: #0070f3;
+    --secondary-color: #ff4081;
+    --background-color: #f7f7f7;
+    --text-color: #333;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: Arial, sans-serif;
+}
+
+/* Add other global styles here */
